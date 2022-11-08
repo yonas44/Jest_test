@@ -1,0 +1,24 @@
+{
+  "name": "jest_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonas44/Jest_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonas44/Jest_test/issues"
+  },
+  "homepage": "https://github.com/yonas44/Jest_test#readme",
+  "dependencies": {
+    "jest": "^29.3.0"
+  }
+}
